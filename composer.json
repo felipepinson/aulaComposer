@@ -1,7 +1,7 @@
 {
   "name": "felipepinson/aulacomposer",
   "description":"aula composer",
-  "homepage":"http:www.naotenhoainda.com.br",
+  "homepage":"http://www.naotenhoainda.com.br",
   "license":"MIT",
   "keywords":["teste","composer"],
   "require":{
