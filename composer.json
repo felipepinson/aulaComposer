@@ -1,0 +1,11 @@
+{
+  "name": "felipepinson/aulaComposer",
+  "description":"Aula composer",
+  "homepage":"http:www.naotenhoainda.com.br",
+  "license":"MIT",
+  "keywords":["teste","composer"],
+  "require":{
+       "php":">=5.6",
+  },
+  "authors":[{"name":"felipepinson","email":"teste@gmail.com"}]	
+}
